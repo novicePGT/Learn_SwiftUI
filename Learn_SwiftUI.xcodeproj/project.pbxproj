@@ -13,6 +13,7 @@
 		B877694F2A4D20B0006188CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B877694E2A4D20B0006188CA /* Preview Assets.xcassets */; };
 		B87769562A4D20C0006188CA /* TextBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769552A4D20C0006188CA /* TextBasic.swift */; };
 		B87769582A4D3DE1006188CA /* ShapeBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769572A4D3DE1006188CA /* ShapeBasic.swift */; };
+		B877695A2A4E9443006188CA /* ColorBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769592A4E9443006188CA /* ColorBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		B877694E2A4D20B0006188CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B87769552A4D20C0006188CA /* TextBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBasic.swift; sourceTree = "<group>"; };
 		B87769572A4D3DE1006188CA /* ShapeBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeBasic.swift; sourceTree = "<group>"; };
+		B87769592A4E9443006188CA /* ColorBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				B87769472A4D20AF006188CA /* Learn_SwiftUIApp.swift */,
 				B87769552A4D20C0006188CA /* TextBasic.swift */,
 				B87769572A4D3DE1006188CA /* ShapeBasic.swift */,
+				B87769592A4E9443006188CA /* ColorBasic.swift */,
 				B87769492A4D20AF006188CA /* ContentView.swift */,
 				B877694B2A4D20B0006188CA /* Assets.xcassets */,
 				B877694D2A4D20B0006188CA /* Preview Content */,
@@ -146,6 +149,7 @@
 				B87769562A4D20C0006188CA /* TextBasic.swift in Sources */,
 				B877694A2A4D20AF006188CA /* ContentView.swift in Sources */,
 				B87769582A4D3DE1006188CA /* ShapeBasic.swift in Sources */,
+				B877695A2A4E9443006188CA /* ColorBasic.swift in Sources */,
 				B87769482A4D20AF006188CA /* Learn_SwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
