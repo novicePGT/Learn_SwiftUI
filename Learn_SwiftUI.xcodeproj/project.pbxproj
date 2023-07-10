@@ -17,6 +17,7 @@
 		B877695C2A53D3BB006188CA /* GradientBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B877695B2A53D3BB006188CA /* GradientBasic.swift */; };
 		B877695E2A5520D1006188CA /* IconBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B877695D2A5520D1006188CA /* IconBasic.swift */; };
 		B87769602A5BEAC2006188CA /* ImageBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B877695F2A5BEAC2006188CA /* ImageBasic.swift */; };
+		B87769622A5BED37006188CA /* FrameBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769612A5BED37006188CA /* FrameBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		B877695B2A53D3BB006188CA /* GradientBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBasic.swift; sourceTree = "<group>"; };
 		B877695D2A5520D1006188CA /* IconBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBasic.swift; sourceTree = "<group>"; };
 		B877695F2A5BEAC2006188CA /* ImageBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBasic.swift; sourceTree = "<group>"; };
+		B87769612A5BED37006188CA /* FrameBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 			children = (
 				B87769472A4D20AF006188CA /* Learn_SwiftUIApp.swift */,
 				B877695F2A5BEAC2006188CA /* ImageBasic.swift */,
+				B87769612A5BED37006188CA /* FrameBasic.swift */,
 				B877695D2A5520D1006188CA /* IconBasic.swift */,
 				B87769552A4D20C0006188CA /* TextBasic.swift */,
 				B87769572A4D3DE1006188CA /* ShapeBasic.swift */,
@@ -163,6 +166,7 @@
 				B87769582A4D3DE1006188CA /* ShapeBasic.swift in Sources */,
 				B877695A2A4E9443006188CA /* ColorBasic.swift in Sources */,
 				B87769482A4D20AF006188CA /* Learn_SwiftUIApp.swift in Sources */,
+				B87769622A5BED37006188CA /* FrameBasic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
