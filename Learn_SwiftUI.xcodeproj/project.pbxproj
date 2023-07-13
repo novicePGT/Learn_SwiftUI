@@ -21,6 +21,7 @@
 		B87769642A5BF0D9006188CA /* backgroundBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769632A5BF0D9006188CA /* backgroundBasic.swift */; };
 		B87769662A5CDFDC006188CA /* StackBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769652A5CDFDC006188CA /* StackBasic.swift */; };
 		B87769682A5E3ECD006188CA /* PaddingBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769672A5E3ECD006188CA /* PaddingBasic.swift */; };
+		B877696A2A5F93AF006188CA /* SpacerBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769692A5F93AF006188CA /* SpacerBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		B87769632A5BF0D9006188CA /* backgroundBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backgroundBasic.swift; sourceTree = "<group>"; };
 		B87769652A5CDFDC006188CA /* StackBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBasic.swift; sourceTree = "<group>"; };
 		B87769672A5E3ECD006188CA /* PaddingBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBasic.swift; sourceTree = "<group>"; };
+		B87769692A5F93AF006188CA /* SpacerBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				B87769612A5BED37006188CA /* FrameBasic.swift */,
 				B87769632A5BF0D9006188CA /* backgroundBasic.swift */,
 				B87769672A5E3ECD006188CA /* PaddingBasic.swift */,
+				B87769692A5F93AF006188CA /* SpacerBasic.swift */,
 				B87769652A5CDFDC006188CA /* StackBasic.swift */,
 				B877695D2A5520D1006188CA /* IconBasic.swift */,
 				B87769552A4D20C0006188CA /* TextBasic.swift */,
@@ -176,6 +179,7 @@
 				B87769582A4D3DE1006188CA /* ShapeBasic.swift in Sources */,
 				B877695A2A4E9443006188CA /* ColorBasic.swift in Sources */,
 				B87769482A4D20AF006188CA /* Learn_SwiftUIApp.swift in Sources */,
+				B877696A2A5F93AF006188CA /* SpacerBasic.swift in Sources */,
 				B87769622A5BED37006188CA /* FrameBasic.swift in Sources */,
 				B87769682A5E3ECD006188CA /* PaddingBasic.swift in Sources */,
 				B87769662A5CDFDC006188CA /* StackBasic.swift in Sources */,
