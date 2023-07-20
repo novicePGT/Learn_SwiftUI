@@ -22,6 +22,7 @@
 		B87769662A5CDFDC006188CA /* StackBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769652A5CDFDC006188CA /* StackBasic.swift */; };
 		B87769682A5E3ECD006188CA /* PaddingBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769672A5E3ECD006188CA /* PaddingBasic.swift */; };
 		B877696A2A5F93AF006188CA /* SpacerBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769692A5F93AF006188CA /* SpacerBasic.swift */; };
+		B877696C2A68CF4E006188CA /* ScrollViewBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B877696B2A68CF4E006188CA /* ScrollViewBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		B87769652A5CDFDC006188CA /* StackBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackBasic.swift; sourceTree = "<group>"; };
 		B87769672A5E3ECD006188CA /* PaddingBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBasic.swift; sourceTree = "<group>"; };
 		B87769692A5F93AF006188CA /* SpacerBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBasic.swift; sourceTree = "<group>"; };
+		B877696B2A68CF4E006188CA /* ScrollViewBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				B87769632A5BF0D9006188CA /* backgroundBasic.swift */,
 				B87769672A5E3ECD006188CA /* PaddingBasic.swift */,
 				B87769692A5F93AF006188CA /* SpacerBasic.swift */,
+				B877696B2A68CF4E006188CA /* ScrollViewBasic.swift */,
 				B87769652A5CDFDC006188CA /* StackBasic.swift */,
 				B877695D2A5520D1006188CA /* IconBasic.swift */,
 				B87769552A4D20C0006188CA /* TextBasic.swift */,
@@ -180,6 +183,7 @@
 				B877695A2A4E9443006188CA /* ColorBasic.swift in Sources */,
 				B87769482A4D20AF006188CA /* Learn_SwiftUIApp.swift in Sources */,
 				B877696A2A5F93AF006188CA /* SpacerBasic.swift in Sources */,
+				B877696C2A68CF4E006188CA /* ScrollViewBasic.swift in Sources */,
 				B87769622A5BED37006188CA /* FrameBasic.swift in Sources */,
 				B87769682A5E3ECD006188CA /* PaddingBasic.swift in Sources */,
 				B87769662A5CDFDC006188CA /* StackBasic.swift in Sources */,
