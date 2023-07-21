@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B82756342A6A1B9C001A70AF /* ForEachBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82756332A6A1B9C001A70AF /* ForEachBasic.swift */; };
+		B82756362A6A62DE001A70AF /* LazyGridBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82756352A6A62DE001A70AF /* LazyGridBasic.swift */; };
 		B87769482A4D20AF006188CA /* Learn_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769472A4D20AF006188CA /* Learn_SwiftUIApp.swift */; };
 		B877694A2A4D20AF006188CA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769492A4D20AF006188CA /* ContentView.swift */; };
 		B877694C2A4D20B0006188CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B877694B2A4D20B0006188CA /* Assets.xcassets */; };
@@ -29,6 +30,7 @@
 
 /* Begin PBXFileReference section */
 		B82756332A6A1B9C001A70AF /* ForEachBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBasic.swift; sourceTree = "<group>"; };
+		B82756352A6A62DE001A70AF /* LazyGridBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridBasic.swift; sourceTree = "<group>"; };
 		B87769442A4D20AF006188CA /* Learn_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Learn_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B87769472A4D20AF006188CA /* Learn_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learn_SwiftUIApp.swift; sourceTree = "<group>"; };
 		B87769492A4D20AF006188CA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 			isa = PBXGroup;
 			children = (
 				B82756332A6A1B9C001A70AF /* ForEachBasic.swift */,
+				B82756352A6A62DE001A70AF /* LazyGridBasic.swift */,
 				B87769462A4D20AF006188CA /* Learn_SwiftUI */,
 				B87769452A4D20AF006188CA /* Products */,
 			);
@@ -182,6 +185,7 @@
 				B87769602A5BEAC2006188CA /* ImageBasic.swift in Sources */,
 				B877695C2A53D3BB006188CA /* GradientBasic.swift in Sources */,
 				B87769642A5BF0D9006188CA /* backgroundBasic.swift in Sources */,
+				B82756362A6A62DE001A70AF /* LazyGridBasic.swift in Sources */,
 				B877695E2A5520D1006188CA /* IconBasic.swift in Sources */,
 				B87769562A4D20C0006188CA /* TextBasic.swift in Sources */,
 				B877694A2A4D20AF006188CA /* ContentView.swift in Sources */,
