@@ -37,3 +37,7 @@
 ### 2023-07-21 (금)
 - ForEach
 - LazyGrid
+
+### 2023-07-26 (수)
+- SafeArea
+- Button
