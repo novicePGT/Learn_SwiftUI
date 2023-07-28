@@ -10,6 +10,7 @@
 		B82756342A6A1B9C001A70AF /* ForEachBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82756332A6A1B9C001A70AF /* ForEachBasic.swift */; };
 		B82756362A6A62DE001A70AF /* LazyGridBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82756352A6A62DE001A70AF /* LazyGridBasic.swift */; };
 		B827564D2A735AA5001A70AF /* TernaryBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B827564C2A735AA5001A70AF /* TernaryBasic.swift */; };
+		B827564F2A735D0E001A70AF /* AnimationBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B827564E2A735D0E001A70AF /* AnimationBasic.swift */; };
 		B87769482A4D20AF006188CA /* Learn_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769472A4D20AF006188CA /* Learn_SwiftUIApp.swift */; };
 		B877694A2A4D20AF006188CA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769492A4D20AF006188CA /* ContentView.swift */; };
 		B877694C2A4D20B0006188CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B877694B2A4D20B0006188CA /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 		B82756332A6A1B9C001A70AF /* ForEachBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBasic.swift; sourceTree = "<group>"; };
 		B82756352A6A62DE001A70AF /* LazyGridBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridBasic.swift; sourceTree = "<group>"; };
 		B827564C2A735AA5001A70AF /* TernaryBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBasic.swift; sourceTree = "<group>"; };
+		B827564E2A735D0E001A70AF /* AnimationBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBasic.swift; sourceTree = "<group>"; };
 		B87769442A4D20AF006188CA /* Learn_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Learn_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B87769472A4D20AF006188CA /* Learn_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learn_SwiftUIApp.swift; sourceTree = "<group>"; };
 		B87769492A4D20AF006188CA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				B877695F2A5BEAC2006188CA /* ImageBasic.swift */,
 				B87769612A5BED37006188CA /* FrameBasic.swift */,
 				B827564C2A735AA5001A70AF /* TernaryBasic.swift */,
+				B827564E2A735D0E001A70AF /* AnimationBasic.swift */,
 				B87769632A5BF0D9006188CA /* backgroundBasic.swift */,
 				B87769672A5E3ECD006188CA /* PaddingBasic.swift */,
 				B87769692A5F93AF006188CA /* SpacerBasic.swift */,
@@ -195,6 +198,7 @@
 				B877694A2A4D20AF006188CA /* ContentView.swift in Sources */,
 				B87769582A4D3DE1006188CA /* ShapeBasic.swift in Sources */,
 				B82756342A6A1B9C001A70AF /* ForEachBasic.swift in Sources */,
+				B827564F2A735D0E001A70AF /* AnimationBasic.swift in Sources */,
 				B877695A2A4E9443006188CA /* ColorBasic.swift in Sources */,
 				B87769482A4D20AF006188CA /* Learn_SwiftUIApp.swift in Sources */,
 				B877696A2A5F93AF006188CA /* SpacerBasic.swift in Sources */,
