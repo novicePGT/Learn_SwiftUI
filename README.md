@@ -41,3 +41,9 @@
 ### 2023-07-26 (수)
 - SafeArea
 - Button
+
+### 2023-07-27 (목)
+- @State
+- Extract View
+- @Binding
+- Conditional
