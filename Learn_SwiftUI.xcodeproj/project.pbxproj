@@ -14,6 +14,8 @@
 		B82756512A767E33001A70AF /* TransitionBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82756502A767E33001A70AF /* TransitionBasic.swift */; };
 		B82756532A795061001A70AF /* SheetBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82756522A795061001A70AF /* SheetBasic.swift */; };
 		B82756552A795079001A70AF /* SheetBasic2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82756542A795079001A70AF /* SheetBasic2.swift */; };
+		B82756572A795367001A70AF /* NavigationBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82756562A795367001A70AF /* NavigationBasic.swift */; };
+		B827565B2A795470001A70AF /* SecondNavigationVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = B827565A2A795470001A70AF /* SecondNavigationVIew.swift */; };
 		B87769482A4D20AF006188CA /* Learn_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769472A4D20AF006188CA /* Learn_SwiftUIApp.swift */; };
 		B877694A2A4D20AF006188CA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769492A4D20AF006188CA /* ContentView.swift */; };
 		B877694C2A4D20B0006188CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B877694B2A4D20B0006188CA /* Assets.xcassets */; };
@@ -41,6 +43,8 @@
 		B82756502A767E33001A70AF /* TransitionBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBasic.swift; sourceTree = "<group>"; };
 		B82756522A795061001A70AF /* SheetBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetBasic.swift; sourceTree = "<group>"; };
 		B82756542A795079001A70AF /* SheetBasic2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetBasic2.swift; sourceTree = "<group>"; };
+		B82756562A795367001A70AF /* NavigationBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBasic.swift; sourceTree = "<group>"; };
+		B827565A2A795470001A70AF /* SecondNavigationVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondNavigationVIew.swift; sourceTree = "<group>"; };
 		B87769442A4D20AF006188CA /* Learn_SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Learn_SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B87769472A4D20AF006188CA /* Learn_SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Learn_SwiftUIApp.swift; sourceTree = "<group>"; };
 		B87769492A4D20AF006188CA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -100,6 +104,8 @@
 				B827564E2A735D0E001A70AF /* AnimationBasic.swift */,
 				B82756502A767E33001A70AF /* TransitionBasic.swift */,
 				B82756522A795061001A70AF /* SheetBasic.swift */,
+				B82756562A795367001A70AF /* NavigationBasic.swift */,
+				B827565A2A795470001A70AF /* SecondNavigationVIew.swift */,
 				B82756542A795079001A70AF /* SheetBasic2.swift */,
 				B87769632A5BF0D9006188CA /* backgroundBasic.swift */,
 				B87769672A5E3ECD006188CA /* PaddingBasic.swift */,
@@ -208,6 +214,7 @@
 				B87769562A4D20C0006188CA /* TextBasic.swift in Sources */,
 				B827564D2A735AA5001A70AF /* TernaryBasic.swift in Sources */,
 				B877694A2A4D20AF006188CA /* ContentView.swift in Sources */,
+				B82756572A795367001A70AF /* NavigationBasic.swift in Sources */,
 				B87769582A4D3DE1006188CA /* ShapeBasic.swift in Sources */,
 				B82756342A6A1B9C001A70AF /* ForEachBasic.swift in Sources */,
 				B827564F2A735D0E001A70AF /* AnimationBasic.swift in Sources */,
@@ -216,6 +223,7 @@
 				B877696A2A5F93AF006188CA /* SpacerBasic.swift in Sources */,
 				B877696C2A68CF4E006188CA /* ScrollViewBasic.swift in Sources */,
 				B877696E2A68D28E006188CA /* initEnumBasic.swift in Sources */,
+				B827565B2A795470001A70AF /* SecondNavigationVIew.swift in Sources */,
 				B87769622A5BED37006188CA /* FrameBasic.swift in Sources */,
 				B87769682A5E3ECD006188CA /* PaddingBasic.swift in Sources */,
 				B87769662A5CDFDC006188CA /* StackBasic.swift in Sources */,
