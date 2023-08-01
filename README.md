@@ -54,3 +54,7 @@
 
 ### 2023-07-30 (일)
 - transition ( 동적 뷰 구성 )
+
+### 2023-08-01 (화)
+- Sheet
+- NavigationView
