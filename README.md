@@ -47,3 +47,10 @@
 - Extract View
 - @Binding
 - Conditional
+
+### 2023-07-28 (금)
+- TenaryOperator
+- Animation
+
+### 2023-07-30 (일)
+- transition ( 동적 뷰 구성 )
