@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B812121F2A7C8E7E00A5BB1F /* ActionSheetBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B812121E2A7C8E7E00A5BB1F /* ActionSheetBasic.swift */; };
 		B82756342A6A1B9C001A70AF /* ForEachBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82756332A6A1B9C001A70AF /* ForEachBasic.swift */; };
 		B82756362A6A62DE001A70AF /* LazyGridBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82756352A6A62DE001A70AF /* LazyGridBasic.swift */; };
 		B827564D2A735AA5001A70AF /* TernaryBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B827564C2A735AA5001A70AF /* TernaryBasic.swift */; };
@@ -39,6 +40,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B812121E2A7C8E7E00A5BB1F /* ActionSheetBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBasic.swift; sourceTree = "<group>"; };
 		B82756332A6A1B9C001A70AF /* ForEachBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBasic.swift; sourceTree = "<group>"; };
 		B82756352A6A62DE001A70AF /* LazyGridBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridBasic.swift; sourceTree = "<group>"; };
 		B827564C2A735AA5001A70AF /* TernaryBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBasic.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				B82756562A795367001A70AF /* NavigationBasic.swift */,
 				B827565A2A795470001A70AF /* SecondNavigationVIew.swift */,
 				B827565C2A79E966001A70AF /* ListBasic.swift */,
+				B812121E2A7C8E7E00A5BB1F /* ActionSheetBasic.swift */,
 				B827565E2A7B39D7001A70AF /* AlertBasic.swift */,
 				B82756602A7B4067001A70AF /* ContextMenuBasic.swift */,
 				B82756542A795079001A70AF /* SheetBasic2.swift */,
@@ -226,6 +229,7 @@
 				B877694A2A4D20AF006188CA /* ContentView.swift in Sources */,
 				B82756572A795367001A70AF /* NavigationBasic.swift in Sources */,
 				B87769582A4D3DE1006188CA /* ShapeBasic.swift in Sources */,
+				B812121F2A7C8E7E00A5BB1F /* ActionSheetBasic.swift in Sources */,
 				B82756342A6A1B9C001A70AF /* ForEachBasic.swift in Sources */,
 				B827564F2A735D0E001A70AF /* AnimationBasic.swift in Sources */,
 				B877695A2A4E9443006188CA /* ColorBasic.swift in Sources */,
