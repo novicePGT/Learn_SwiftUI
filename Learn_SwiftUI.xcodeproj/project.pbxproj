@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		B812121F2A7C8E7E00A5BB1F /* ActionSheetBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B812121E2A7C8E7E00A5BB1F /* ActionSheetBasic.swift */; };
+		B81212212A7C951000A5BB1F /* TextFieldBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B81212202A7C951000A5BB1F /* TextFieldBasic.swift */; };
 		B82756342A6A1B9C001A70AF /* ForEachBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82756332A6A1B9C001A70AF /* ForEachBasic.swift */; };
 		B82756362A6A62DE001A70AF /* LazyGridBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82756352A6A62DE001A70AF /* LazyGridBasic.swift */; };
 		B827564D2A735AA5001A70AF /* TernaryBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B827564C2A735AA5001A70AF /* TernaryBasic.swift */; };
@@ -41,6 +42,7 @@
 
 /* Begin PBXFileReference section */
 		B812121E2A7C8E7E00A5BB1F /* ActionSheetBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBasic.swift; sourceTree = "<group>"; };
+		B81212202A7C951000A5BB1F /* TextFieldBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldBasic.swift; sourceTree = "<group>"; };
 		B82756332A6A1B9C001A70AF /* ForEachBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBasic.swift; sourceTree = "<group>"; };
 		B82756352A6A62DE001A70AF /* LazyGridBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyGridBasic.swift; sourceTree = "<group>"; };
 		B827564C2A735AA5001A70AF /* TernaryBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBasic.swift; sourceTree = "<group>"; };
@@ -116,6 +118,7 @@
 				B827565A2A795470001A70AF /* SecondNavigationVIew.swift */,
 				B827565C2A79E966001A70AF /* ListBasic.swift */,
 				B812121E2A7C8E7E00A5BB1F /* ActionSheetBasic.swift */,
+				B81212202A7C951000A5BB1F /* TextFieldBasic.swift */,
 				B827565E2A7B39D7001A70AF /* AlertBasic.swift */,
 				B82756602A7B4067001A70AF /* ContextMenuBasic.swift */,
 				B82756542A795079001A70AF /* SheetBasic2.swift */,
@@ -241,6 +244,7 @@
 				B87769622A5BED37006188CA /* FrameBasic.swift in Sources */,
 				B827565D2A79E966001A70AF /* ListBasic.swift in Sources */,
 				B87769682A5E3ECD006188CA /* PaddingBasic.swift in Sources */,
+				B81212212A7C951000A5BB1F /* TextFieldBasic.swift in Sources */,
 				B87769662A5CDFDC006188CA /* StackBasic.swift in Sources */,
 				B827565F2A7B39D7001A70AF /* AlertBasic.swift in Sources */,
 			);
