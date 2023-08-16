@@ -52,7 +52,7 @@ struct OnTabGestureBasic: View {
                 .background(Color.blue)
                 .cornerRadius(10)
                 .onTapGesture(count: 3) {
-                    isSelected.toggle()
+                    isSelected.toggle()  
                 }
             
             Spacer()
