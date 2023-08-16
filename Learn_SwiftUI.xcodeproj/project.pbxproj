@@ -47,6 +47,7 @@
 		B8E8D94B2A8C67DB0066902D /* TabViewBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E8D94A2A8C67DB0066902D /* TabViewBasic.swift */; };
 		B8E8D94D2A8C6B830066902D /* DarkModeBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E8D94C2A8C6B830066902D /* DarkModeBasic.swift */; };
 		B8E8D94F2A8C6EE20066902D /* OnAppearBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E8D94E2A8C6EE20066902D /* OnAppearBasic.swift */; };
+		B8E8D9512A8C717D0066902D /* OnTabGestureBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E8D9502A8C717D0066902D /* OnTabGestureBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -91,6 +92,7 @@
 		B8E8D94A2A8C67DB0066902D /* TabViewBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBasic.swift; sourceTree = "<group>"; };
 		B8E8D94C2A8C6B830066902D /* DarkModeBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBasic.swift; sourceTree = "<group>"; };
 		B8E8D94E2A8C6EE20066902D /* OnAppearBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBasic.swift; sourceTree = "<group>"; };
+		B8E8D9502A8C717D0066902D /* OnTabGestureBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnTabGestureBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -128,6 +130,7 @@
 				B8E8D94A2A8C67DB0066902D /* TabViewBasic.swift */,
 				B8E8D94C2A8C6B830066902D /* DarkModeBasic.swift */,
 				B8E8D94E2A8C6EE20066902D /* OnAppearBasic.swift */,
+				B8E8D9502A8C717D0066902D /* OnTabGestureBasic.swift */,
 				B82756332A6A1B9C001A70AF /* ForEachBasic.swift */,
 				B82756352A6A62DE001A70AF /* LazyGridBasic.swift */,
 				B845D8602A8110E400DDD5C8 /* ToggleBasic.swift */,
@@ -245,6 +248,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8E8D9512A8C717D0066902D /* OnTabGestureBasic.swift in Sources */,
 				B87769602A5BEAC2006188CA /* ImageBasic.swift in Sources */,
 				B845D8632A8111ED00DDD5C8 /* PickerBasic.swift in Sources */,
 				B82756552A795079001A70AF /* SheetBasic2.swift in Sources */,
