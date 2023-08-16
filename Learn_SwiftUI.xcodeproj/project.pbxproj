@@ -44,6 +44,7 @@
 		B877696A2A5F93AF006188CA /* SpacerBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87769692A5F93AF006188CA /* SpacerBasic.swift */; };
 		B877696C2A68CF4E006188CA /* ScrollViewBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B877696B2A68CF4E006188CA /* ScrollViewBasic.swift */; };
 		B877696E2A68D28E006188CA /* initEnumBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B877696D2A68D28E006188CA /* initEnumBasic.swift */; };
+		B8E8D94B2A8C67DB0066902D /* TabViewBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E8D94A2A8C67DB0066902D /* TabViewBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -85,6 +86,7 @@
 		B87769692A5F93AF006188CA /* SpacerBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBasic.swift; sourceTree = "<group>"; };
 		B877696B2A68CF4E006188CA /* ScrollViewBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBasic.swift; sourceTree = "<group>"; };
 		B877696D2A68D28E006188CA /* initEnumBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = initEnumBasic.swift; sourceTree = "<group>"; };
+		B8E8D94A2A8C67DB0066902D /* TabViewBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 			isa = PBXGroup;
 			children = (
 				B87769472A4D20AF006188CA /* Learn_SwiftUIApp.swift */,
+				B8E8D94A2A8C67DB0066902D /* TabViewBasic.swift */,
 				B82756332A6A1B9C001A70AF /* ForEachBasic.swift */,
 				B82756352A6A62DE001A70AF /* LazyGridBasic.swift */,
 				B845D8602A8110E400DDD5C8 /* ToggleBasic.swift */,
@@ -265,6 +268,7 @@
 				B827565B2A795470001A70AF /* SecondNavigationVIew.swift in Sources */,
 				B845D8692A82105A00DDD5C8 /* StepperBasic.swift in Sources */,
 				B87769622A5BED37006188CA /* FrameBasic.swift in Sources */,
+				B8E8D94B2A8C67DB0066902D /* TabViewBasic.swift in Sources */,
 				B827565D2A79E966001A70AF /* ListBasic.swift in Sources */,
 				B87769682A5E3ECD006188CA /* PaddingBasic.swift in Sources */,
 				B81212212A7C951000A5BB1F /* TextFieldBasic.swift in Sources */,
