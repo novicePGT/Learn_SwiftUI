@@ -45,6 +45,8 @@
 		B877696C2A68CF4E006188CA /* ScrollViewBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B877696B2A68CF4E006188CA /* ScrollViewBasic.swift */; };
 		B877696E2A68D28E006188CA /* initEnumBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B877696D2A68D28E006188CA /* initEnumBasic.swift */; };
 		B8E8D94B2A8C67DB0066902D /* TabViewBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E8D94A2A8C67DB0066902D /* TabViewBasic.swift */; };
+		B8E8D94D2A8C6B830066902D /* DarkModeBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E8D94C2A8C6B830066902D /* DarkModeBasic.swift */; };
+		B8E8D94F2A8C6EE20066902D /* OnAppearBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E8D94E2A8C6EE20066902D /* OnAppearBasic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -87,6 +89,8 @@
 		B877696B2A68CF4E006188CA /* ScrollViewBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBasic.swift; sourceTree = "<group>"; };
 		B877696D2A68D28E006188CA /* initEnumBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = initEnumBasic.swift; sourceTree = "<group>"; };
 		B8E8D94A2A8C67DB0066902D /* TabViewBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBasic.swift; sourceTree = "<group>"; };
+		B8E8D94C2A8C6B830066902D /* DarkModeBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBasic.swift; sourceTree = "<group>"; };
+		B8E8D94E2A8C6EE20066902D /* OnAppearBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBasic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +126,8 @@
 			children = (
 				B87769472A4D20AF006188CA /* Learn_SwiftUIApp.swift */,
 				B8E8D94A2A8C67DB0066902D /* TabViewBasic.swift */,
+				B8E8D94C2A8C6B830066902D /* DarkModeBasic.swift */,
+				B8E8D94E2A8C6EE20066902D /* OnAppearBasic.swift */,
 				B82756332A6A1B9C001A70AF /* ForEachBasic.swift */,
 				B82756352A6A62DE001A70AF /* LazyGridBasic.swift */,
 				B845D8602A8110E400DDD5C8 /* ToggleBasic.swift */,
@@ -261,9 +267,11 @@
 				B82756342A6A1B9C001A70AF /* ForEachBasic.swift in Sources */,
 				B827564F2A735D0E001A70AF /* AnimationBasic.swift in Sources */,
 				B877695A2A4E9443006188CA /* ColorBasic.swift in Sources */,
+				B8E8D94D2A8C6B830066902D /* DarkModeBasic.swift in Sources */,
 				B87769482A4D20AF006188CA /* Learn_SwiftUIApp.swift in Sources */,
 				B877696A2A5F93AF006188CA /* SpacerBasic.swift in Sources */,
 				B877696C2A68CF4E006188CA /* ScrollViewBasic.swift in Sources */,
+				B8E8D94F2A8C6EE20066902D /* OnAppearBasic.swift in Sources */,
 				B877696E2A68D28E006188CA /* initEnumBasic.swift in Sources */,
 				B827565B2A795470001A70AF /* SecondNavigationVIew.swift in Sources */,
 				B845D8692A82105A00DDD5C8 /* StepperBasic.swift in Sources */,
