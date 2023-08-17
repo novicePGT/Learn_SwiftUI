@@ -21,6 +21,8 @@
 		B827565D2A79E966001A70AF /* ListBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B827565C2A79E966001A70AF /* ListBasic.swift */; };
 		B827565F2A7B39D7001A70AF /* AlertBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B827565E2A7B39D7001A70AF /* AlertBasic.swift */; };
 		B82756612A7B4067001A70AF /* ContextMenuBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82756602A7B4067001A70AF /* ContextMenuBasic.swift */; };
+		B82F3C242A8DB8DE0036FB81 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82F3C232A8DB8DE0036FB81 /* UserModel.swift */; };
+		B82F3C262A8DBC940036FB81 /* UserModelBasicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B82F3C252A8DBC940036FB81 /* UserModelBasicView.swift */; };
 		B845D8612A8110E500DDD5C8 /* ToggleBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B845D8602A8110E400DDD5C8 /* ToggleBasic.swift */; };
 		B845D8632A8111ED00DDD5C8 /* PickerBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B845D8622A8111ED00DDD5C8 /* PickerBasic.swift */; };
 		B845D8652A81156A00DDD5C8 /* ColorPickerBasic.swift in Sources */ = {isa = PBXBuildFile; fileRef = B845D8642A81156A00DDD5C8 /* ColorPickerBasic.swift */; };
@@ -65,6 +67,8 @@
 		B827565C2A79E966001A70AF /* ListBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBasic.swift; sourceTree = "<group>"; };
 		B827565E2A7B39D7001A70AF /* AlertBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBasic.swift; sourceTree = "<group>"; };
 		B82756602A7B4067001A70AF /* ContextMenuBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBasic.swift; sourceTree = "<group>"; };
+		B82F3C232A8DB8DE0036FB81 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
+		B82F3C252A8DBC940036FB81 /* UserModelBasicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModelBasicView.swift; sourceTree = "<group>"; };
 		B845D8602A8110E400DDD5C8 /* ToggleBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBasic.swift; sourceTree = "<group>"; };
 		B845D8622A8111ED00DDD5C8 /* PickerBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBasic.swift; sourceTree = "<group>"; };
 		B845D8642A81156A00DDD5C8 /* ColorPickerBasic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBasic.swift; sourceTree = "<group>"; };
@@ -106,6 +110,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B82F3C1E2A8DB86A0036FB81 /* MVVM */ = {
+			isa = PBXGroup;
+			children = (
+				B82F3C222A8DB8B00036FB81 /* Model */,
+				B82F3C212A8DB8A30036FB81 /* ViewModel */,
+				B82F3C202A8DB89A0036FB81 /* View */,
+			);
+			path = MVVM;
+			sourceTree = "<group>";
+		};
+		B82F3C202A8DB89A0036FB81 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				B82F3C252A8DBC940036FB81 /* UserModelBasicView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		B82F3C212A8DB8A30036FB81 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		B82F3C222A8DB8B00036FB81 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B82F3C232A8DB8DE0036FB81 /* UserModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		B877693B2A4D20AF006188CA = {
 			isa = PBXGroup;
 			children = (
@@ -164,6 +201,7 @@
 				B87769592A4E9443006188CA /* ColorBasic.swift */,
 				B877695B2A53D3BB006188CA /* GradientBasic.swift */,
 				B87769492A4D20AF006188CA /* ContentView.swift */,
+				B82F3C1E2A8DB86A0036FB81 /* MVVM */,
 				B877694B2A4D20B0006188CA /* Assets.xcassets */,
 				B877694D2A4D20B0006188CA /* Preview Content */,
 			);
@@ -266,6 +304,8 @@
 				B845D8612A8110E500DDD5C8 /* ToggleBasic.swift in Sources */,
 				B82756572A795367001A70AF /* NavigationBasic.swift in Sources */,
 				B87769582A4D3DE1006188CA /* ShapeBasic.swift in Sources */,
+				B82F3C242A8DB8DE0036FB81 /* UserModel.swift in Sources */,
+				B82F3C262A8DBC940036FB81 /* UserModelBasicView.swift in Sources */,
 				B845D8652A81156A00DDD5C8 /* ColorPickerBasic.swift in Sources */,
 				B812121F2A7C8E7E00A5BB1F /* ActionSheetBasic.swift in Sources */,
 				B82756342A6A1B9C001A70AF /* ForEachBasic.swift in Sources */,
